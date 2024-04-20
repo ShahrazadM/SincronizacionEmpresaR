@@ -13,7 +13,7 @@ Este sistema debe permitir la planificación de actividades, gestionar clientes,
 Integrantes:
 Ruben Riquelme, Frasiel Camp, Nayareth Sepulveda y Scherezade Huancapaza.
 
-PROYECTO EMPRESA  RIESGOS
+PROYECTO EMPRESA  RIESGO
 Para dar solución al problema propuesto realizaremos un Proyecto denominado “Empresa Riesgos”. Este proyecto permitirá desde un menú generar 9 opciones que permitirán gestionar, administrar y mantener una administración de los distintos usuarios que utilizarán el proyecto además de permitir mantener un registro de las capacitaciones que la empresa necesita.
 
 Proceso para el Desarrollo del Proyecto:
@@ -26,10 +26,10 @@ Proceso para el Desarrollo del Proyecto:
 7) Realizamos las pruebas pertinentes para que el proyecto se ejecute correctamente, verificamos que la elaboración del proyecto cumpla con las Normas SOLID.
 8) Finalmente creamos un archivo plano que contiene proceso de resolucion del proyecto. Y ubicamos el proyecto en el repositorio GitHub.
 
-DIAGRAMA PROYECTO EMPRESA RIESGOS
+DIAGRAMA PROYECTO EMPRESA RIESGO
 
 LINK ACCESO A GITHUB
 Ruben Riquelme:
 Nayareth Sepulveda:
 Frasiel Camp:
-Scherezade Huancapaza:https://github.com/ShahrazadM/SincronizacionEmpresaRiesgos.git
+Scherezade Huancapaza:https://github.com/ShahrazadM/SincronizacionEmpresaR.git
